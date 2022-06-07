@@ -8,16 +8,16 @@ It's is generate a pre-build directory structure for the code force problem.
 
 # Usage 🚀
 ```bash
-mason make feature_route_bloc --feature_name login --package_name app
+mason make codeforce_python
 ```
 
 ## Variables ✨
 
 | variable           | description                  | default | type      |
 | ------------------ | ---------------------------- | ------- | --------- |
-| `question_no`     | name of the feature          | 10   | `string`  |
-| `question`     | name of the package          | Dash     | `string`  |
-| `url` | add flutter_bloc & equatable | https://codeforces.com/     | `string` |
+| `question_no`     | question no          | 10   | `string`  |
+| `question`     | name of the question          | Dash     | `string`  |
+| `url` | question url | https://codeforces.com/     | `string` |
 
 ## Output 📦
 
