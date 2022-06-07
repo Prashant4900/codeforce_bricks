@@ -1,4 +1,4 @@
-# CodeForces - [Problem]({{url.sentenceCase()}})
+# CodeForces - [Problem]({{{ url }}})
 <a href="https://codeforces.com/">
   <p align="center">
     <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png">
