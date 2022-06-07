@@ -1,4 +1,4 @@
-name: codeforce
+name: codeforce_python
 description: A new brick created with the Mason CLI.
 
 # The following defines the version and build number for your brick.
@@ -19,6 +19,12 @@ environment:
 #  * an optional default value
 #  * an optional prompt phrase used when asking for the variable.
 vars:
+  question_no:
+    type: string
+    description: Question Number
+    default: 10
+    prompt: What is your question number?
+
   question:
     type: string
     description: Your Question name
